@@ -1,3 +1,9 @@
+## Minhas notas durante os estudos
+
+Repo onde salvarei minhas anotações durante a leitura do livro.
+Para contribuir com o projeto de tradução visite o repositório original do [Cezar Augusto](http://github.com/cezaraugusto).
+ReadMe original abaixo.
+
 ## Fique por dentro
 
 A corrente tradução é autorizada pelo autor [Kyle Simpson](https://github.com/getify/) e iniciada por [Cezar Augusto](http://github.com/cezaraugusto). A tradução é em caráter voluntário e tem como único objetivo disponibilizar à comunidade o conteúdo do livro em português.
